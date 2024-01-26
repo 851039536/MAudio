@@ -1,0 +1,13 @@
+D:\sw\class_library\MAudio\MAudio\bin\Debug\MAudio.dll
+D:\sw\class_library\MAudio\MAudio\bin\Debug\MAudio.pdb
+D:\sw\class_library\MAudio\MAudio\bin\Debug\Microsoft.Win32.Registry.dll
+D:\sw\class_library\MAudio\MAudio\bin\Debug\NAudio.Core.dll
+D:\sw\class_library\MAudio\MAudio\bin\Debug\NAudio.WinMM.dll
+D:\sw\class_library\MAudio\MAudio\bin\Debug\Microsoft.Win32.Registry.xml
+D:\sw\class_library\MAudio\MAudio\bin\Debug\NAudio.Core.xml
+D:\sw\class_library\MAudio\MAudio\bin\Debug\NAudio.WinMM.xml
+D:\sw\class_library\MAudio\MAudio\obj\Debug\MAudio.csproj.AssemblyReference.cache
+D:\sw\class_library\MAudio\MAudio\obj\Debug\MAudio.csproj.CoreCompileInputs.cache
+D:\sw\class_library\MAudio\MAudio\obj\Debug\MAudio.csproj.CopyComplete
+D:\sw\class_library\MAudio\MAudio\obj\Debug\MAudio.dll
+D:\sw\class_library\MAudio\MAudio\obj\Debug\MAudio.pdb

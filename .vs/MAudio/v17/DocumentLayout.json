@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sw\\class_library\\MAudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC7F0F-3625-4ADD-AA57-BD6AC4AAFDB6}|MAudio\\MAudio.csproj|d:\\sw\\class_library\\maudio\\maudio\\maudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC7F0F-3625-4ADD-AA57-BD6AC4AAFDB6}|MAudio\\MAudio.csproj|solutionrelative:maudio\\maudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBC7F0F-3625-4ADD-AA57-BD6AC4AAFDB6}|MAudio\\MAudio.csproj|d:\\sw\\class_library\\maudio\\maudio\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBC7F0F-3625-4ADD-AA57-BD6AC4AAFDB6}|MAudio\\MAudio.csproj|solutionrelative:maudio\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MForm.cs",
+              "DocumentMoniker": "D:\\sw\\class_library\\MAudio\\MAudio\\MForm.cs",
+              "RelativeDocumentMoniker": "MAudio\\MForm.cs",
+              "ToolTip": "D:\\sw\\class_library\\MAudio\\MAudio\\MForm.cs",
+              "RelativeToolTip": "MAudio\\MForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T06:28:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MAudios.cs",
+              "DocumentMoniker": "D:\\sw\\class_library\\MAudio\\MAudio\\MAudios.cs",
+              "RelativeDocumentMoniker": "MAudio\\MAudios.cs",
+              "ToolTip": "D:\\sw\\class_library\\MAudio\\MAudio\\MAudios.cs",
+              "RelativeToolTip": "MAudio\\MAudios.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T06:19:43.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
