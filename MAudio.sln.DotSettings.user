@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csw_005Cclass_005Flibrary_005CMechTE_005CMechTE_005F480_005Cbin_005CDebug_005CMechTE_005F480_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d4fe4ca_002D639b_002D44eb_002Da2f6_002Db9763e3a99c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AudioTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::84464F52-7355-4F8D-B8C2-754C17A14A69::.NETFramework,Version=v4.8::MAudioTests.MAudiosTests.AudioTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

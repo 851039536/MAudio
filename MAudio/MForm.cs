@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace MAudio
 {
-    internal class MForm
+    internal static class MForm
     {
         /// <summary>
         /// 默认弹框提示(确认/取消)
